@@ -23,3 +23,6 @@ oldpeak = ST depression induced by exercise relative to rest
 the slope of the peak exercise ST segment
 number of major vessels (0-3) colored by flourosopy
 thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
+
+
+![image](https://user-images.githubusercontent.com/62472111/127526657-ff2c1b26-5765-4081-aaff-a25dfc693fa8.png)
